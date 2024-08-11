@@ -54,6 +54,7 @@ To get started, clone this repository and install the required dependencies:
 ```bash
 git clone https://github.com/yourusername/curvetopia.git
 cd curvetopia
+```
 
 The Identify_Shapes_And_Symmetries notebook gives solutions for regularizing curves and exploring symmetries.
 The Occlusion notebooks give solutions for curve completion and handling occlusions. 
