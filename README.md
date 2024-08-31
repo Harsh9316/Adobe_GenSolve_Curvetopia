@@ -52,8 +52,7 @@ Here, we focus on completing 2D curves that have gaps due to occlusions. The cha
 To get started, clone this repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/curvetopia.git
-cd curvetopia
+git clone https://github.com/Harsh9316/Adobe_GenSolve_Curvetopia.git
 ```
 
 The Identify_Shapes_And_Symmetries notebook gives solutions for regularizing curves and exploring symmetries.
